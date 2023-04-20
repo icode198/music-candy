@@ -58,8 +58,6 @@ Some of the technical highlights implemented in this project:
 
 ### Live Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d2da0bf-a46b-43cc-bff6-61815c975f38/deploy-status)](https://app.netlify.com/sites/music-candy/deploys)
-
 - Deployed to Netlify: [Live Demo](https://music-candy.netlify.app/)
 
 ### Built With
@@ -87,7 +85,7 @@ To get a local copy up and running, follow these simple example steps.
 
 ### Get files
 1. Open your terminal or command prompt.
-2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `git@github.com:StarSheriff2/music-candy.git`.
+2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `git@github.com:icode198/music-candy.git`.
 <br>Now go to the ***"Install Dependencies"*** section
 3. Download the program files by clicking on the green button that says “**Code**” on the upper right side of the project frame.
 4. You will see a dropdown menu. Click on “**Download ZIP**.”
@@ -164,17 +162,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 </details>
 
-## Author
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/StarSheriff2/music-candy/issues).
+Feel free to check the [issues page](https://github.com/icode198/music-candy/issues).
 
 ## Show your support
 
@@ -182,4 +174,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/StarSheriff2/music-candy/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/music-candy/blob/main/LICENSE) licensed.
